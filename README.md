@@ -1,6 +1,6 @@
 # Analyzing state transitions with marginal models
 
-This repository contains a Python module for analyzing state transitions in sequential data.  Additionally, code is also included for running numerical experiments investigating the validity of these procedures.  The paper describing these procedures and experiments can be found [here](https://).
+This repository contains a Python module for analyzing state transitions in sequential data.  Additionally, code is also included for running numerical experiments investigating the validity of these procedures.
 
 # Requirements
 
